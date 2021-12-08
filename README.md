@@ -1,4 +1,5 @@
-# BeeDataset
+# BeeDataset &#128029;
+
 Tensorflow dataset containing images of bees for multilabel classification
 
 This dataset contains ~7.500 images of bees, captured at the entrance of a bee hive. Each image contains one bee, rotated to a vertical format, heads or tails up. This dataset was created for a masters thesis on detecting characteristics of bees and parasites like the varroa mite.
