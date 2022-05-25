@@ -21,7 +21,7 @@ except:
 print("="*30)
     
 ROWS = 4
-COLUMNS = 10
+COLUMNS = 5
 
 # Load via TFDS
 ds = tfds.load('bee_dataset/bee_dataset_300',
