@@ -12,14 +12,6 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import tensorflow_datasets as tfds
 
-print("="*30)
-try:
-    from bee_dataset import BeeDataset
-    print("Using local Bee-Dataset")
-except:
-    print("Using Bee-Dataset from TFDS installation")
-print("="*30)
-    
 ROWS = 4
 COLUMNS = 5
 
